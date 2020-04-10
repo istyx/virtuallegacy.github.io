@@ -1,2 +1,2 @@
-# virtuallegay.github.io
+# virtuallegacy.github.io
 Virtuallegacy
